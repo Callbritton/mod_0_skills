@@ -15,6 +15,5 @@ quotient = num7/num2
 songs = ["Wordless Chorus", "Ambling Alp", "Graceless"]
 
 songs.shift
-p songs
 
 food.length
